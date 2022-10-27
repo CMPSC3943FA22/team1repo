@@ -1,0 +1,12 @@
+* firstly, I would like to gather all the requirements that are needed to create the ebook library.
+*  I would like to create the mockup.
+*  Design UI using react/Angular 
+                    *  creating a login page
+                    *  Book collection page
+                    *  Employee record page
+                    *  Room Booking system page
+                    * Checkout page for the student
+                    * Create a page (waiting till 15 minutes after that it will automatically reset and another student can easily book on that time).
+ * Integrate API  page
+ *  Testing page
+ * Deploy the website
